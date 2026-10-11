@@ -169,7 +169,6 @@ If you find our work useful in your research, please cite it as follows:
   title={StatePlay: State-Aware Game World Models for Mechanics-Consistent Generation},
   author={Lin, Zijun and Wang, Zeqing and Tan, Cheston and Wen, Bihan and Jin, Yeying},
   journal={arXiv preprint arXiv:2607.26754},
-  year={2026},
-}
+  year={2026}
 }
 ```
