@@ -165,13 +165,11 @@ every 500 steps.
 ## Citation
 If you find our work useful in your research, please cite it as follows:
 ```
-@misc{lin2026stateplaystateawaregameworld,
-      title={StatePlay: State-Aware Game World Models for Mechanics-Consistent Generation}, 
-      author={Zijun Lin and Zeqing Wang and Cheston Tan and Bihan Wen and Yeying Jin},
-      year={2026},
-      eprint={2607.26754},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2607.26754}, 
+@article{lin2026stateplay,
+  title={StatePlay: State-Aware Game World Models for Mechanics-Consistent Generation},
+  author={Lin, Zijun and Wang, Zeqing and Tan, Cheston and Wen, Bihan and Jin, Yeying},
+  journal={arXiv preprint arXiv:2607.26754},
+  year={2026},
+}
 }
 ```
